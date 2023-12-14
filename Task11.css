@@ -1,0 +1,28 @@
+table,
+tr,
+td {
+    border: 3px solid black;
+    height: 200px;
+    width: 200px;
+    border-collapse: collapse;
+    margin-left: 350px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.bgv {
+    background-color: blue;
+
+
+}
+
+.bgv1 {
+    background-color: black;
+}
+
+.bgv2 {
+    background-color: red;
+}

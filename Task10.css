@@ -1,0 +1,41 @@
+.para{
+    background-color: rgb(139, 68, 75);
+    /* margin:50px; */
+    /* margin-bottom: 100px; */
+  margin: 30px;
+}
+img{
+    height: 400px;
+    height: 400px;
+     margin-left: 500px;
+     margin-top: 30px;
+    margin-right:200px ;
+    padding: 50px 30px 50px;   
+}
+p{
+    padding:20px 200px 20px ;
+}
+.para1{
+    background-color: rgb(7, 46, 24);
+    /* margin:50px; */
+    /* margin-bottom: 100px; */
+  margin: 30px;
+}
+img{
+    height: 400px;
+    height: 400px;
+     margin-left: 400px;
+     margin-top: 30px;
+    margin-right:200px ;
+    padding: 50px 30px 50px;   
+}
+p{
+    padding:20px 300px 20px ;
+} button{
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 30px; margin-left: 600px;
+    padding: 10px 20px 10px;
+    
+}
